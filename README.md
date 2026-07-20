@@ -35,4 +35,6 @@ USE_EMAIL=true
 HOW_MANY_SEARCHES=5
 ```
 4. Run the program!
-``` uv run app.py```
+``` 
+uv run app.py
+```
